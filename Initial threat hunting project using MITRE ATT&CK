@@ -1,0 +1,26 @@
+Threat Hunting Approach
+1. Defined a threat hunting hypothesis
+2. Enabled endpoint telemetry using Sysmon
+3. Simulated attacker behavior using encoded PowerShell
+4. Analyzed Sysmon logs for suspicious activity
+5. Mapped findings to MITRE ATT&CK techniques
+6. Documented findings and assessment
+
+ MITRE ATT&CK Techniques Covered
+ T1059.001 – PowerShell
+ T1027 – Obfuscated Files or Information
+
+ Key Findings
+ Encoded PowerShell execution was observed via Sysmon Event ID 1
+ Such behavior is commonly associated with living off the land attacks
+This activity warrants further investigation in enterprise environments
+
+ Skills Demonstrated
+ Threat Hunting
+ Log Analysis
+ MITRE ATT&CK Mapping
+ Windows Endpoint Telemetry
+ SOC Analyst Workflow
+
+ Disclaimer
+This project was conducted in a controlled lab environment for educational purposes only.
