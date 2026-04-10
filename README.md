@@ -43,7 +43,9 @@ Investigation Steps
 5. Correlated findings with MITRE ATT&CK
 
 Evidence
+
 Screenshots of Sysmon events are stored in the screenshots directory and include:
+
  Process creation events
  Network connection telemetry
  Encoded PowerShell execution
