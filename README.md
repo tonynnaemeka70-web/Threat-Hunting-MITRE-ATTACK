@@ -47,7 +47,9 @@ Evidence
 Screenshots of Sysmon events are stored in the screenshots directory and include:
 
  Process creation events
+ 
  Network connection telemetry
+ 
  Encoded PowerShell execution
 
 Key Findings
