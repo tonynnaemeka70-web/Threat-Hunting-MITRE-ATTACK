@@ -6,11 +6,15 @@ The goal is to identify suspicious behaviors on a Windows 10 endpoint and correl
 
 Objectives
 
- Deploy and configure Sysmon for endpoint visibility
- Collect and analyze Windows event telemetry
- Develop threat hunting hypotheses based on MITRE ATT&CK
- Identify suspicious process execution and network activity
- Document findings with supporting evidence
+ 1.Deploy and configure Sysmon for endpoint visibility
+ 
+ 2.Collect and analyze Windows event telemetry
+ 
+ 3.Develop threat hunting hypotheses based on MITRE ATT&CK
+ 
+ 4.Identify suspicious process execution and network activity
+ 
+ 5.Document findings with supporting evidence
 
  Tools & Technologies
  
