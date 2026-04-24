@@ -5,6 +5,7 @@ This project demonstrates a hands-on threat hunting exercise using Sysmon teleme
 The goal is to identify suspicious behaviors on a Windows 10 endpoint and correlate them to known adversary techniques.
 
 Objectives
+
  Deploy and configure Sysmon for endpoint visibility
  Collect and analyze Windows event telemetry
  Develop threat hunting hypotheses based on MITRE ATT&CK
@@ -12,6 +13,7 @@ Objectives
  Document findings with supporting evidence
 
  Tools & Technologies
+ 
 Sysmon (Sysinternals)
 Windows 10
 MITRE ATT&CK Framework
